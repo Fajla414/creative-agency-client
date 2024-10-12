@@ -1,0 +1,9 @@
+.footer-container{
+    height: 450px;
+    padding: 40px 0;
+    background-color: #F8D04C;
+}
+
+.footer-container .copyright{
+    margin-top: 90px;
+}

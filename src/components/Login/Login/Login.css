@@ -1,0 +1,13 @@
+.login-img {
+    margin-top: 5rem !important ;
+    text-align: center ;
+}
+
+.login-img img {
+    height: 80px;
+}
+
+.login-section{
+    margin-top: 3rem ;
+    padding: 7rem 0 ;
+}
